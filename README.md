@@ -1,5 +1,13 @@
 # 📊 Causal Inference & Synthetic Control Engine for Algorithmic Pricing
 
+## 🚀 Live Demo
+
+Explore the interactive dashboard here:
+
+🔗 **[Launch Pricing Causal Analysis Dashboard](https://pricing-causal-analysis.streamlit.app/)**
+
+📂 **[View Source Code on GitHub](https://github.com/mohdsahil3533-sudo/pricing-causal-analysis)**
+
 An end-to-end Python portfolio project exploring a simulated pricing change using Exploratory Data Analysis (EDA), Synthetic Control, placebo checks, Double Machine Learning (DML), sensitivity analysis, and a Streamlit dashboard.
 
 > **Important:** The dataset is synthetic. These results demonstrate an analytical workflow and are not evidence of real-world business impact.
